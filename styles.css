@@ -116,7 +116,7 @@ a:hover{
 #profile-card a {
     color: orange;
 }
-@media (max-width: 400px) {
+@media (max-width: 450px) {
     #landmarks-section {
         flex-direction: column;
         margin: 8px;
